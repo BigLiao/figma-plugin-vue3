@@ -1,0 +1,11 @@
+{
+  "name": "figma-plugin-vue3",
+  "id": "01234567890123456789",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "index.html",
+  "editorType": [
+    "figjam",
+    "figma"
+  ]
+}
